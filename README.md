@@ -1,15 +1,16 @@
 💇‍♀️ Salon Management System
 
 📝 Overview
-The Salon Management System is a complete desktop-based application developed using Java, JavaFX, and PostgreSQL (pgAdmin4).
+The Salon Management System is a complete desktop-based application developed using Java, JavaFX, and PostgreSQL.
 It simplifies day-to-day salon operations such as customer management, appointment scheduling, billing, inventory tracking, employee management, and reporting — all from one intuitive interface.
 
 ⚙️ Tech Stack
 Backend: Java
 Frontend: JavaFX
-Database: PostgreSQL
+Database: PostgreSQL (managed via pgAdmin4)
 
 👨‍💼 Modules
+
 🔐 Admin Side
 Admin Login – Secure authentication for administrators
 Client Registration – Register and manage new salon clients
