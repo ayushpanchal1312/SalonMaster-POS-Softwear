@@ -44,7 +44,8 @@
 - Dashboard analytics with charts
 - Multi-branch salon management
 
-# 🧑‍💻 Author
-**Ayush Panchal**
+## 👨‍💻 Author  
+### Ayush Panchal  
+**MSc IT | Java Developer**  
+- **linkdin:** https://www.linkedin.com/in/ayush-panchal-3a0b73276/
 
-MSc IT Student | Java Developer.
